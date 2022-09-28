@@ -2,6 +2,7 @@ body {
     background-color: #EB001B;
     background-image: linear-gradient(#EB001B, #FF5F00);
     height: 100vh;
+    font-family: Arial, sans-serif;
 }
 h1 {
     color: #fff;
