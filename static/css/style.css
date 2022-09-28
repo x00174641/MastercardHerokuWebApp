@@ -1,10 +1,10 @@
 body {
-    background-color: #FF5F00;
-    background-image: linear-gradient(#FF5F00, #EB001B);
+    background-color: #EB001B;
+    background-image: linear-gradient(#EB001B, #FF5F00);
     height: 100vh;
 }
 h1 {
-    color: #fa1;
+    color: #fff;
 }
 
 p {
