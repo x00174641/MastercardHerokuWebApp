@@ -1,7 +1,7 @@
 body {
     background-color: #FF5F00;
     background-image: linear-gradient(#FF5F00, #EB001B);
-;
+    height: 100vh;
 }
 h1 {
     color: #fa1;
