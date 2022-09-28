@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(29, 30, 31);
+    background-color: #FF5F00;
+    background-image: linear-gradient(#FF5F00, #EB001B);
+;
 }
 h1 {
     color: #fa1;
